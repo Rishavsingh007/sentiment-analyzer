@@ -99,8 +99,8 @@ Run tests with:
 
 Install pre-commit:
    pip install pre-commit
-   pre-commit install
 
+ 
 Run pre-commit on all files:
    pre-commit run --all-files
 
