@@ -47,7 +47,7 @@ sentiment-analyzer/
 ## Installation & Setup
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/sentiment-analyzer.git
+   git clone https://github.com/Rishavsingh007/sentiment-analyzer.git
 
 2. Set up a virtual environment:
    python -m venv .venv
